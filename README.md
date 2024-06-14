@@ -1,1 +1,3 @@
-vue js dynamic form that takes an array of fields to render but defaults to a sign in / sign up form. 
+Dynamic reusable form.
+
+A versatile Vue.js form component that dynamically adjusts its functionality based on provided data. It can switch between a sign-in/sign-up form and a custom form with any number of fields. The form is fully responsive, ensuring optimal user experience across devices. Submission endpoints and the form title are dynamically set according to the provided configuration, allowing for seamless integration into various application contexts. This project showcases proficiency in Vue.js development, responsive design, and building flexible, reusable components adhering to best practices.
